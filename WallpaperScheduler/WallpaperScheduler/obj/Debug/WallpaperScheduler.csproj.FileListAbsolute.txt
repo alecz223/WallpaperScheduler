@@ -1,0 +1,8 @@
+c:\users\alex\documents\visual studio 2015\Projects\WallpaperScheduler\WallpaperScheduler\bin\Debug\WallpaperScheduler.exe
+c:\users\alex\documents\visual studio 2015\Projects\WallpaperScheduler\WallpaperScheduler\bin\Debug\WallpaperScheduler.pdb
+c:\users\alex\documents\visual studio 2015\Projects\WallpaperScheduler\WallpaperScheduler\obj\Debug\WallpaperScheduler.csprojResolveAssemblyReference.cache
+c:\users\alex\documents\visual studio 2015\Projects\WallpaperScheduler\WallpaperScheduler\obj\Debug\WallpaperScheduler.Form1.resources
+c:\users\alex\documents\visual studio 2015\Projects\WallpaperScheduler\WallpaperScheduler\obj\Debug\WallpaperScheduler.Properties.Resources.resources
+c:\users\alex\documents\visual studio 2015\Projects\WallpaperScheduler\WallpaperScheduler\obj\Debug\WallpaperScheduler.csproj.GenerateResource.Cache
+c:\users\alex\documents\visual studio 2015\Projects\WallpaperScheduler\WallpaperScheduler\obj\Debug\WallpaperScheduler.exe
+c:\users\alex\documents\visual studio 2015\Projects\WallpaperScheduler\WallpaperScheduler\obj\Debug\WallpaperScheduler.pdb
